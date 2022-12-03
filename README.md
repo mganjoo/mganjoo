@@ -2,7 +2,7 @@
 
 My recent experience has been in applying ML to problems like abuse, trust and safety, and
 content ranking [[LinkedIn](https://www.linkedin.com/in/mganjoo/)]. I am also teaching myself
-web development on the side (I recently wrote [GChessBoard](https://github.com/mganjoo/gchessboard),
+web development on the side (I recently wrote [gchessboard](https://github.com/mganjoo/gchessboard),
 an accessible, interactive, and customizable chessboard UI component that can be easily embedded into
 most websites).
  
