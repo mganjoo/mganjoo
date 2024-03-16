@@ -2,7 +2,7 @@
 
 My recent experience has been in applying ML to problems like abuse, trust and safety, and
 content ranking. I'm currently working on developing signals to detect bulk operation and
-scaled spam operations on YouTube. [LinkedIn](https://www.linkedin.com/in/mganjoo/).
+scaled spam operations ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
 
 In grad school, I've worked on research using multi-modal representations of images and
 text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
