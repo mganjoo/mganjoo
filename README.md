@@ -1,8 +1,11 @@
 👋 Hi, I’m @mganjoo and I'm a generalist machine learning engineer based in San Francisco.
 
-My recent experience has been in applying ML to problems like abuse, trust and safety, and
-content ranking. I'm currently working on improving tool-use capabilities of LLM-based agents.
-([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
+I currently work on improving the [Gemini](https://gemini.google.com/) assistant; specifically,
+I've been working on improving the tool use capabilities of the model and the integrations of
+core apps like YouTube and Maps into Gemini.
+
+In the past I've worked on ML to problems like abuse, trust and safety, and
+content ranking. ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
 
 In grad school, I've worked on research using multi-modal representations of images and
 text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
