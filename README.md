@@ -11,7 +11,7 @@ content ranking. ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
 
 In grad school, I've worked on research using multi-modal representations of images and
 text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
-published at NeurIPS 2023.
+published at NeurIPS 2013.
 
 # Side projects
 
