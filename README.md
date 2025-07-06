@@ -1,21 +1,18 @@
 👋 Hi, I’m `@mganjoo` and I'm a generalist machine learning engineer based in San Francisco.
 
-# Professional
+# ML and AI
 
-I currently work on improving the [Gemini](https://gemini.google.com/) assistant; specifically,
+- I currently work on improving the [Gemini](https://gemini.google.com/) assistant; specifically,
 I've been working on improving the tool use capabilities of the model and the integrations of
 core apps like YouTube and Maps into Gemini.
-
-In the past I've worked at Twitter and YouTube, applying ML to problems like abuse, trust and safety, and
+- In the past I've worked at Twitter and YouTube, applying ML to problems like abuse, trust and safety, and
 content ranking. ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
-
-In grad school, I've worked on research using multi-modal representations of images and
+- In grad school, I've worked on research using multi-modal representations of images and
 text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
 published at NeurIPS 2013.
 
 # Side projects
 
-- A few [agentic LLM explorations](https://github.com/stars/mganjoo/lists/agentic-explorations) that don't have a particular purpose, just me experimenting with things.
 - [Apple Health Exporter](https://github.com/mganjoo/apple-health-exporter): a Python module to export
   Apple Health data for analysis.
 - [gchessboard](https://github.com/mganjoo/gchessboard): an accessible, interactive, and customizable
