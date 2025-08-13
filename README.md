@@ -2,14 +2,15 @@
 
 # ML and AI
 
-- I currently work on improving the [Gemini](https://gemini.google.com/) assistant; specifically,
-I've been working on improving the tool use capabilities of the model and the integrations of
-core apps like YouTube and Maps into Gemini.
+- I am currently building [Resolve AI](https://resolve.ai/), an AI production engineer agent for helping
+  on-call engineers with investigation troubleshooting and understanding systems. 
+- I previously worked on the [Gemini](https://gemini.google.com/) assistant; specifically, on improving the
+  tool use capabilities of the model and the integrations of core apps like YouTube and Maps into Gemini.
 - In the past I've worked at Twitter and YouTube, applying ML to problems like abuse, trust and safety, and
-content ranking. ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
+  content ranking. ([LinkedIn](https://www.linkedin.com/in/mganjoo/)).
 - In grad school, I've worked on research using multi-modal representations of images and
-text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
-published at NeurIPS 2013.
+  text, including a [paper on zero-shot learning](https://github.com/mganjoo/zslearning)
+  published at NeurIPS 2013.
 
 # Side projects
 
